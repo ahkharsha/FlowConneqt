@@ -29,7 +29,7 @@ const NavTop = ({
           </Link>
         </div> */}
         <span class="d-inline-block fredoka-font ls-3 fw-600 text-current font-xxl logo-text mb-0">
-          FlowConneqt
+          MantleConneqt
         </span>
       </a>
       <a
