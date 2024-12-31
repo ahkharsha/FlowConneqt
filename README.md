@@ -1,30 +1,30 @@
-# 🌐 **MantleConneqt** - Your Decentralized Social Hub
+# 🌐 **FlowConneqt** - Your Decentralized Social Hub
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://mantle-conneqt.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/MantleConneqt)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://flow-conneqt.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/FlowConneqt)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
 <img src="https://github.com/user-attachments/assets/3dfa6394-f229-4da5-b6eb-18596eb5de8d" alt="logo-white" width="150"/>
 
 ---
 
-**MantleConneqt** is a decentralized social media platform empowering users to connect, create, and share content while having full ownership over their data. Through blockchain technology, users can engage in a decentralized environment with text, images, videos, live streams, and more.
+**FlowConneqt** is a decentralized social media platform empowering users to connect, create, and share content while having full ownership over their data. Through blockchain technology, users can engage in a decentralized environment with text, images, videos, live streams, and more.
 
 ---
 
 ## 🚀 **Deployment**
 
 Access the platform at:  
-<br>**🔗 [MantleConneqt (Deployed) - mantle-conneqt.vercel.app](https://mantle-conneqt.vercel.app/)**<br><br>
+<br>**🔗 [FlowConneqt (Deployed) - flow-conneqt.vercel.app](https://flow-conneqt.vercel.app/)**<br><br>
 
 ---
 
 ## 📜 **Smart Contract**
 
-The MantleConneqt smart contract is deployed on the Mantle Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://explorer.sepolia.mantle.xyz/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
+The FlowConneqt smart contract is deployed on the EVM on Flow Testnet at [0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5](https://evm-testnet.flowscan.io/address/0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5).  
 Visit the link below to view the contract in the explorer!
 
-**🔗 [MantleConneqt Smart Contract](https://explorer.sepolia.mantle.xyz/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
+**🔗 [FlowConneqt Smart Contract](https://evm-testnet.flowscan.io/address/0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5)**
 
 ---
 
@@ -56,15 +56,15 @@ Visit the link below to view the contract in the explorer!
 
 ## 🎯 **Project Vision**
 
-Our vision is to create a decentralized, user-first social media platform where everyone can connect, create, and share content while retaining full data ownership. **MantleConneqt** empowers users with control, privacy, and monetization potential.
+Our vision is to create a decentralized, user-first social media platform where everyone can connect, create, and share content while retaining full data ownership. **FlowConneqt** empowers users with control, privacy, and monetization potential.
 
 ---
 
 ## ⚙️ **Technologies Used**
 
-  - **Blockchain**: Mantle Testnet
+  - **Blockchain**: EVM on Flow Testnet
 - **Smart Contracts**: Solidity
-- **Token**: MNT
+- **Token**: FLOW
 - **Frontend**: Next.js, Tailwind CSS
 - **Deployment**: Vercel
 
@@ -76,8 +76,8 @@ Our vision is to create a decentralized, user-first social media platform where 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ahkharsha/MantleConneqt.git
-    cd MantleConneqt
+    git clone https://github.com/ahkharsha/FlowConneqt.git
+    cd FlowConneqt
     cd client
     ```
 
@@ -114,7 +114,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 ### **4. Advertise & Monetize**
 
 - Promote your content or products using blockchain-powered ad systems.
-- Pay for ads or receive ad payments in MNT tokens.
+- Pay for ads or receive ad payments in FLOW tokens.
 
 ### **5. Follow & Engage**
 
@@ -133,11 +133,11 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 - ✅ Launch beta version for early adopters
 - ✅ Add group creation and ad management features
-- ✅ Deploy smart contracts on Mantle Testnet
+- ✅ Deploy smart contracts on EVM on Flow Testnet
 
 ### **Phase 3: Public Launch**
 
-- ⬜ Expand to Mantle Mainnet
+- ⬜ Expand to EVM on Flow Mainnet
 - ⬜ Enable user content monetization
 - ⬜ Introduce decentralized community moderation
 
@@ -145,7 +145,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/MantleConneqt/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/FlowConneqt/blob/master/LICENSE) file for details.
 
 ---
 
@@ -155,7 +155,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [A Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [MantleConneqt](https://mantle-conneqt.vercel.app/)
+- **Project Website**: [FlowConneqt](https://flow-conneqt.vercel.app/)
 
 ---
 
