@@ -21,7 +21,7 @@ Access the platform at:
 
 ## 📜 **Smart Contract**
 
-The FlowConneqt smart contract is deployed on the Mantle Testnet at [0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5](https://evm-testnet.flowscan.io/address/0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5).  
+The FlowConneqt smart contract is deployed on the EVM on Flow Testnet at [0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5](https://evm-testnet.flowscan.io/address/0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5).  
 Visit the link below to view the contract in the explorer!
 
 **🔗 [FlowConneqt Smart Contract](https://evm-testnet.flowscan.io/address/0x667e64FDf36fB1512DEfFca951dDFc3f56461bd5)**
@@ -133,11 +133,11 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 - ✅ Launch beta version for early adopters
 - ✅ Add group creation and ad management features
-- ✅ Deploy smart contracts on Mantle Testnet
+- ✅ Deploy smart contracts on EVM on Flow Testnet
 
 ### **Phase 3: Public Launch**
 
-- ⬜ Expand to Mantle Mainnet
+- ⬜ Expand to EVM on Flow Mainnet
 - ⬜ Enable user content monetization
 - ⬜ Introduce decentralized community moderation
 
